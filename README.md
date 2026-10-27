@@ -1,2 +1,2 @@
-# congruent
-Congruent este un limbaj specific domeniului axat pe programarea de interfe
+# Congruent
+Congruent este un limbaj specific domeniului axat pe programarea de interfețe utilizator
